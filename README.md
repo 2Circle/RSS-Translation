@@ -11,7 +11,6 @@
 
 ## 已转换翻译源
 
- - source001 [http://www.mckinsey.com/insights/rss](http://www.mckinsey.com/insights/rss) -> [mckinsey_rss.xml](rss/mckinsey_rss.xml)
- - source002 [http://www.mckinsey.com/insights/rss](http://www.mckinsey.com/insights/rss) -> [mckinsey_iw_rss.xml](rss/mckinsey_iw_rss.xml)
- - source003 [http://rss.acast.com/nature](http://rss.acast.com/nature) -> [nature_rss.xml](rss/nature_rss.xml)
- - source004 [http://feeds.bbci.co.uk/news/rss.xml](http://feeds.bbci.co.uk/news/rss.xml) -> [BBC_Top_Stories_rss.xml](rss/BBC_Top_Stories_rss.xml)
+ - AiBreakfast [https://rsshub.feeded.xyz/twitter/user/AiBreakfast/rss](https://rsshub.feeded.xyz/twitter/user/AiBreakfast/rss) -> [AiBreakfast_rss.xml](rss/AiBreakfast_rss.xml)
+ - ZeldaOfficialJP [http://autopower.club:1200/twitter/user/ZeldaOfficialJP](http://autopower.club:1200/twitter/user/ZeldaOfficialJP) -> [ZeldaOfficialJP.xml](rss/ZeldaOfficialJP.xml)
+ - Notion创始人 [http://rsshub.autopower.club/twitter/user/ivanhzhao](http://rsshub.autopower.club/twitter/user/ivanhzhao) -> [NotionCEO.xml](rss/NotionCEO.xml)
